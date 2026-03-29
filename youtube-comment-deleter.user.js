@@ -5,6 +5,7 @@
 // @description  Deletes YouTube comments from Google My Activity page automatically.
 // @author       Antigravity
 // @match        https://myactivity.google.com/*page=youtube_comments*
+// @match        https://www.youtube.com/feed/history/comment_history*
 // @grant        none
 // ==/UserScript==
 

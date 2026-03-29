@@ -15,10 +15,7 @@ A Tampermonkey script to automatically delete all YouTube comments from your Goo
 4. Save the script.
 
 ## Usage
-1. Open your [YouTube Comments Activity page](https://myactivity.google.com/product/youtube_comments).
+1. Open your [YouTube Comments History page](https://www.youtube.com/feed/history/comment_history).
 2. A status overlay will appear in the top-right corner.
 3. Click **Start** to begin the automated deletion process.
 4. The script will automatically scroll and delete items until the page is cleared or you click **Stop**.
-
-> [!IMPORTANT]
-> Google may occasionally pop up a security verification modal. If this happens, the script will pause. Handle the modal manually, then refresh the page and restart the script.
