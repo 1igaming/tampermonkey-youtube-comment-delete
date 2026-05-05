@@ -1,9 +1,13 @@
 // ==UserScript==
 // @name         YouTube Comment Deleter
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/1igaming/tampermonkey-youtube-comment-delete
+// @version      0.1.1
 // @description  Deletes YouTube comments from Google My Activity page automatically.
-// @author       Antigravity
+// @author       1igaming
+// @homepageURL  https://github.com/1igaming/tampermonkey-youtube-comment-delete
+// @supportURL   https://github.com/1igaming/tampermonkey-youtube-comment-delete/issues
+// @downloadURL  https://raw.githubusercontent.com/1igaming/tampermonkey-youtube-comment-delete/main/youtube-comment-deleter.user.js
+// @updateURL    https://raw.githubusercontent.com/1igaming/tampermonkey-youtube-comment-delete/main/youtube-comment-deleter.user.js
 // @match        https://myactivity.google.com/*page=youtube_comments*
 // @match        https://www.youtube.com/feed/history/comment_history*
 // @grant        none
